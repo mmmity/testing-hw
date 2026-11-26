@@ -13,3 +13,5 @@
 Скриншот allure отчета:
 
 ![allure](allure.png)
+
+![allure2](allure2.png)
