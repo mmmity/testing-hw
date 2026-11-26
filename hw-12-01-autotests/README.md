@@ -5,6 +5,7 @@
 Из директории `hw-12-01-autotests`:
 
 - В идеале сделать виртуальную среду для питона: `python -m venv .venv && source .venv/bin/activate`
+- Поднять приложение на `localhost:8080`
 - Установить зависимости: `pip install -r requirements.txt`
 - Запуск тестов просто так: `python -m pytest tests -v`
 - Запуск тестов с allure: `python -m pytest tests -v --alluredir=allure-results`
